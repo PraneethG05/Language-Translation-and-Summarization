@@ -43,7 +43,7 @@ By combining mBART and Pegasus, this project demonstrates how deep learning can 
     <h2>🔄 Translation with mBART</h2>
     <ul>
       <li>Used <strong>mBART</strong> for Indian language → English translation</li>
-      <li>Fine-tuned on Hindi-English, Tamil-English corpora</li>
+      <li>Fine-tuned on Hindi-English corpora</li>
       <li>Handles low-resource scenarios through multilingual pretraining</li>
       <li><strong>Evaluation:</strong> BLEU Score for translation accuracy, with human checks for clarity/context</li>
     </ul>
