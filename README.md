@@ -19,7 +19,7 @@ By combining mBART and Pegasus, this project demonstrates how deep learning can 
   <div class="section">
     <h2>📌 Project Overview</h2>
     <ul>
-      <li><strong>Translation Model:</strong> mBART (fine-tuned on Hindi, Tamil, Bengali → English)</li>
+      <li><strong>Translation Model:</strong> mBART (fine-tuned on Hindi → English)</li>
       <li><strong>Summarization Model:</strong> PEGASUS (fine-tuned for abstractive summarization)</li>
       <li><strong>Focus:</strong> High-context accuracy, language adaptability, and summarization precision</li>
     </ul>
@@ -62,7 +62,7 @@ By combining mBART and Pegasus, this project demonstrates how deep learning can 
   <div class="section">
     <h2>⚙️ Experimental Setup</h2>
     <ul>
-      <li><strong>GPU:</strong> Trained on CUDA-compatible GPUs</li>
+      <li><strong>GPU:</strong> Trained on Lighting AI T4 GPU</li>
       <li><strong>Data Split:</strong> 80% Train, 10% Validation, 10% Test</li>
       <li><strong>Batch Sizes & LR:</strong> Set individually for translation & summarization stages</li>
     </ul>
@@ -78,13 +78,6 @@ By combining mBART and Pegasus, this project demonstrates how deep learning can 
       <strong>BLEU Score (Translation):</strong> <em>To be updated after testing</em><br>
       <strong>ROUGE Score (Summarization):</strong> 30.12
     </div>
-  </div>
-
-  <div class="section">
-    <h2>📈 Sample Visualizations (Optional)</h2>
-    <p>Add graphs for BLEU/ROUGE trends or sample input/output examples here:</p>
-    <img src="assets/sample_bleu.png" alt="BLEU Score Visualization">
-    <img src="assets/sample_rouge.png" alt="ROUGE Score Visualization">
   </div>
 
   <div class="section">
@@ -108,7 +101,7 @@ By combining mBART and Pegasus, this project demonstrates how deep learning can 
 
   <div class="section">
     <h2>📬 Contact</h2>
-    <p>For collaboration or inquiries, connect with us on <a href="https://github.com/your-username">GitHub</a> or email.</p>
+    <p>For collaboration or inquiries, connect with us on <a href="https://github.com/keshav-077">GitHub</a> or email.</p>
   </div>
 
 </body>
